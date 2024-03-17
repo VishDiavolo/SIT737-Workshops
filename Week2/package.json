@@ -1,23 +1,17 @@
 {
-  "name": "sit725-2021-t2-prac",
+  "name": "sit737-workshops",
   "version": "1.0.0",
-  "description": "sit 725 T2 week 2 prac",
+  "description": "SIT737-Workshop Tasks",
   "main": "server.js",
   "scripts": {
-      "start": "node server_get.js"
+    "start": "node server_get.js"
   },
   "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ChoudharyNavit22/sit725-2021-t2-prac2.git"
-      
-  },
-  "author": "Navit Choudhary",
-  "license": "MIT",
-  "bugs": {
-      "url": "https://github.com/ChoudharyNavit22/sit725-2021-t2-prac2/issues"
+    "type": "git",
+    "url": "git+https://github.com/VishDiavolo/SIT737-Workshops/tree/main/Week2"
   },
   "homepage": "https://github.com/ChoudharyNavit22/sit725-2021-t2-prac2#readme",
   "dependencies": {
-      "express": "^4.18.3"
+    "express": "^4.18.3"
   }
 }
